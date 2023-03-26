@@ -1,0 +1,19 @@
+.odd{
+    background: rgba(255, 0, 0, 0.561);
+    font-size:22px;
+}
+#bigger{
+    font-size:30px;
+}
+.div{
+    color:blue;
+    font-size:30px;
+}
+div#another{
+    background:greenyellow;
+    font-size:20px;
+}
+.second{
+    color:blue;
+    font-size:35px;
+}

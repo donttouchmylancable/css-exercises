@@ -25,3 +25,39 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+.header{
+  display:flex;
+}
+.footer{
+  display:flex;
+}
+ul{
+  color:grey;
+  display:flex;
+  list-style-type:none;
+}
+li{
+  margin:5px;
+}
+.left-links{
+  display:flex;
+  flex:1;
+}
+.right-links{
+  display:flex;
+ justify-content:flex-end;
+ flex:1;
+}
+a{
+  color:grey;
+  text-decoration:none;
+
+}
+.input,.buttons{
+  text-align:center;
+}
+img{
+display:block;
+margin-left:auto;
+margin-right:auto;
+}
